@@ -1,2 +1,2 @@
 # Wazuh-SOC-Lab
-A SOC home lab built with Wazuh SIEM, UFW, Suricata IDS/IPS and VirusTotal. Demonstrating log collection, threat detection, and attack simulation.
+Welcome to my Wazuh SOC Lab repository! This project documents my journey of deploying, configuring, and implementing different security tools.
