@@ -19,3 +19,7 @@ The Lab includes the following components:
 
 ![Lab Architecture](./Lab-Architecture.png)
 *Figure 1: SOC Lab Architecture.*
+
+# Wazuh Setup
+
+[Wazuh Server and Agent Setup](./wazuh-setup.pdf)
